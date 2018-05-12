@@ -1,0 +1,32 @@
+_repo: Rapport-au-Ministre-des-Finances-sur-l-Administration-des-PostesExtrait-de-L-Annuaire-des-Pos__18084
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vandal, Édouard
+    alias: Vandal, Edouard
+    birthdate: 1813
+    deathdate: 1889
+    gutenberg_agent_id: '7796'
+    url: http://www.gutenberg.org/2009/agents/7796
+description: ''
+gutenberg_bookshelf:
+- The Philatelic Digital Library Project
+- FR Services publics
+gutenberg_issued: '2006-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18084'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Postal service -- France'
+title: 'Rapport au Ministre des Finances sur l''Administration des Postes
+
+  Extrait de L''Annuaire des Postes de 1865'
+url: http://www.gutenberg.org/ebooks/18084
