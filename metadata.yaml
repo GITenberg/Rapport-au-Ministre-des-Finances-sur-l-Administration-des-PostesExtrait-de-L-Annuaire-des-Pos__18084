@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7796'
     url: http://www.gutenberg.org/2009/agents/7796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18084#Rapport-au-Ministre-des-Finances-sur-l-Administration-des-PostesExtrait-de-L-Annuaire-des-Pos_
 gutenberg_bookshelf:
 - The Philatelic Digital Library Project
 - FR Services publics
